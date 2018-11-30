@@ -1,0 +1,12 @@
+<div class="flex m-4 shadow-md">
+  {{#each (array "red" "teal" "yellow" "blue" "green" "grey" "white" "black" "purple" "orange" "pink" "indigo") as |color|}}
+    <div 
+      class="flex-1 text-center text-2xl align-middle p-4 cursor-pointer {{concat 'bg-' color}}"
+      onclick={{action @onChange color}}
+    >
+      {{#if (eq @color color)}}
+        🖌
+      {{/if}}
+    </div>
+  {{/each}}
+</div>

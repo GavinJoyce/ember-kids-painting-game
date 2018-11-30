@@ -1,5 +1,7 @@
-{{!-- The following component displays Ember's default welcome message. --}}
-{{welcome-page}}
-{{!-- Feel free to remove this! --}}
 
 {{outlet}}
+
+<div class="pin-b fixed bg-black p-2">
+  {{link-to 'Play' 'play' classNames='text-white'}}
+  {{link-to 'Design' 'design' classNames='text-white'}}
+</div>
