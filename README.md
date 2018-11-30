@@ -1,7 +1,15 @@
-# kids-painting-game
+# ember-kids-painting-game
 
-This README outlines the details of collaborating on this Ember application.
-A short introduction of this app could easily go here.
+Build an Ember.js kids painting game in 20 mins.
+
+ * Watch the video tutorial: https://www.youtube.com/watch?v=N4KrBuO0RRE
+ * Run the app: http://kids-painting-game.surge.sh/
+
+[<img width="848" alt="watch the tutorial on youtube" src="https://user-images.githubusercontent.com/2526/49279202-b7b5c600-f47e-11e8-9992-17d159c9bf7d.png">](https://www.youtube.com/watch?v=N4KrBuO0RRE)
+
+[<img width="1435" alt="watch the tutorial on youtube" src="https://user-images.githubusercontent.com/2526/49279271-ecc21880-f47e-11e8-87ff-edb7c7a862f6.png">](https://www.youtube.com/watch?v=N4KrBuO0RRE)
+
+Questions? Ping me on twitter: https://twitter.com/gavinjoyce
 
 ## Prerequisites
 
@@ -15,7 +23,7 @@ You will need the following things properly installed on your computer.
 ## Installation
 
 * `git clone <repository-url>` this repository
-* `cd kids-painting-game`
+* `cd ember-league-table`
 * `npm install`
 
 ## Running / Development
